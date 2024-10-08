@@ -1,0 +1,7 @@
+name: DiT
+dependencies:
+  - python == 3.8
+  - pip:
+    - timm
+    - diffusers
+    - accelerate

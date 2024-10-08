@@ -1,0 +1,10 @@
+medmnist
+accelerate
+opencv-python
+wandb
+timm
+einops
+einops-exts
+diffusers
+torchmetrics[image]
+
