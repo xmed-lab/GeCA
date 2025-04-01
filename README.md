@@ -107,13 +107,12 @@ Code is built on [Fast-Dit](https://github.com/chuanyangjin/fast-DiT), [ViTCA](h
 
 ### Citation
 ```bibtex
-@misc{elbatel2024organismstartssinglepixcell,
-      title={An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis}, 
-      author={Marawan Elbatel and Konstantinos Kamnitsas and Xiaomeng Li},
-      year={2024},
-      eprint={2407.03018},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.03018}, 
+@inproceedings{elbatel2024organism,
+  title={An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis},
+  author={Elbatel, Marawan and Kamnitsas, Konstantinos and Li, Xiaomeng},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={656--666},
+  year={2024},
+  organization={Springer}
 }
 ```
