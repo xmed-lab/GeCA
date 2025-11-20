@@ -112,6 +112,8 @@ Code is built on [Fast-Dit](https://github.com/chuanyangjin/fast-DiT), [ViTCA](h
   author={Elbatel, Marawan and Kamnitsas, Konstantinos and Li, Xiaomeng},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
   pages={656--666},
+  doi = {10.1007/978-3-031-72378-0_61},
+  url = {https://doi.org/10.1007/978-3-031-72378-0_61},
   year={2024},
   organization={Springer}
 }
